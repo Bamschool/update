@@ -3,16 +3,16 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.05 - Android</title>
-            <description>added the feature to change the audio speed</description>
+            <title>Version Server Inspection - Android</title>
+            <description>Please wait until we are done with server inspection</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.kory.korean" sparkle:version="1.0.05" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.kory.korean" sparkle:version="1.0.06" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.05 - iOS</title>
-            <description>added the feature to change the audio speed</description>
+            <title>Version Server Inspection - iOS</title>
+            <description>Please wait until we are done with server inspection</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/kr/app/kory-korean-learn-korean/id6471968704" sparkle:version="1.0.05" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/kr/app/kory-korean-learn-korean/id6471968704" sparkle:version="1.0.06" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
